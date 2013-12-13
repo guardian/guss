@@ -8,11 +8,11 @@ It is largely inspired by Nicolas Gallagher's [Suit framework](https://github.co
 
 ## Utilities
 
-- [guss-css3](https://github.com/guardian/guss-css3) CSS3 mixins
-- guss-rem (coming soon)
+- [guss-css3](https://github.com/guardian/guss-css3): CSS3 mixins
+- [guss-rem](https://github.com/guardian/guss-rem): rem
 
 ## Components
 
-- guss-grid-system (coming soon)
+- [guss-grid-system](https://github.com/guardian/guss-grid-system): Grid system
 - guss-layout (coming soon)
 - guss-typography (coming soon)
