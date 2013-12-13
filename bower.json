@@ -1,0 +1,14 @@
+{
+  "name": "guss",
+  "version": "1.0.0",
+  "ignore": [
+    "CHANGELOG.md"
+  ],
+  "dependencies": {
+    "guss-rem": "~1.0.0",
+    "guss-grid-system": "~1.0.0",
+    "guss-typography": "~1.0.0",
+    "guss-layout": "~1.0.0",
+    "guss-css3": "~1.0.0"
+  }
+}
