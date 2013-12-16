@@ -8,8 +8,8 @@ It is largely inspired by Nicolas Gallagher's [Suit framework](https://github.co
 
 ## Utilities
 
-- [guss-css3](https://github.com/guardian/guss-css3): CSS3 mixins
-- [guss-rem](https://github.com/guardian/guss-rem): rem
+- [guss-css3](https://github.com/guardian/guss-css3): Sass mixins for the most frequently used CSS3 features.
+- [guss-rem](https://github.com/guardian/guss-rem): Use rem units in your CSS in a retro-compatible way.
 
 ## Components
 
