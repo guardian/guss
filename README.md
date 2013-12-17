@@ -1,7 +1,28 @@
 # Guss
 
-Guss is a collection of universal CSS and Sass bower components re-usable
-across multiple Guardian web products.
+## Installation
+
+```
+bower install guss --save
+```
+
+```scss
+@import "bower_components/sass-mq/_mq";
+@import "bower_components/guss-css3/_css3";
+@import "bower_components/guss-rem/_rem";
+@import "bower_components/guss-grid-system/_grid-system";
+@import "bower_components/guss-layout/_row";
+@import "bower_components/guss-layout/_columns";
+@import "bower_components/guss-typography/_helpers";
+@import "bower_components/guss-typography/_font-scale";
+```
+
+Note: requires Sass 3.3.
+
+## Features
+
+Guss (Guardian StyleSheets) is a collection of universal CSS and Sass bower
+components re-usable across multiple Guardian web products.
 
 It is largely inspired by Nicolas Gallagher's [Suit framework](https://github.com/suitcss/suit).
 
