@@ -1,3 +1,7 @@
+## 1.2.0 (2014-06-25)
+
+- Add [guss-forms](https://github.com/guardian/guss-forms)
+
 ## 1.1.0 (2014-04-17)
 
 - Update bower component versions
