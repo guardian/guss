@@ -1,6 +1,10 @@
-## 1.2.0 (2014-06-25)
+## 1.3.0 (2014-06-25)
 
 - Add [guss-forms](https://github.com/guardian/guss-forms)
+
+## 1.2.0 (2014-06-11)
+
+- Add [guss-colours](https://github.com/guardian/guss-colours) to the available collections.
 
 ## 1.1.0 (2014-04-17)
 
