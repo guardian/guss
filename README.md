@@ -7,15 +7,15 @@ bower install guss --save
 ```
 
 ```scss
-@import "bower_components/sass-mq/_mq";
-@import "bower_components/guss-css3/_css3";
-@import "bower_components/guss-rem/_rem";
-@import "bower_components/guss-grid-system/_grid-system";
-@import "bower_components/guss-layout/_row";
-@import "bower_components/guss-layout/_columns";
-@import "bower_components/guss-typography/_typography";
-@import "bower_components/guss-forms/_forms";
-@import "bower_components/guss-webfonts/_webfonts";
+@import 'bower_components/sass-mq/_mq';
+@import 'bower_components/guss-css3/_css3';
+@import 'bower_components/guss-rem/_rem';
+@import 'bower_components/guss-grid-system/_grid-system';
+@import 'bower_components/guss-layout/_row';
+@import 'bower_components/guss-layout/_columns';
+@import 'bower_components/guss-typography/_typography';
+@import 'bower_components/guss-forms/_forms';
+@import 'bower_components/guss-webfonts/_webfonts';
 ```
 
 ## Features
