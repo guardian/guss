@@ -37,4 +37,4 @@ It is largely inspired by Nicolas Gallagher's [Suit framework](https://github.co
 - [guss-typography](https://github.com/guardian/guss-typography) Font scale and default typography settings
 - [guss-colours](https://github.com/guardian/guss-colours): Brand colours
 - [guss-forms](https://github.com/guardian/guss-forms): Basic Guardian styling for form elements
-- [guss-webfonts](https://github.com/guardian/guss-forms): Basic Guardian styling for form elements
+- [guss-webfonts](https://github.com/guardian/guss-webfonts): Guardian Webfonts
