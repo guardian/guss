@@ -1,3 +1,7 @@
+## 2.0.0 (2014-07-24)
+
+- Update [guss-typography](https://github.com/guardian/guss-typography) to v2.0.0 ([see changes](https://github.com/guardian/guss-typography/releases/tag/v2.0.0))
+
 ## 1.3.0 (2014-06-25)
 
 - Add [guss-forms](https://github.com/guardian/guss-forms)
