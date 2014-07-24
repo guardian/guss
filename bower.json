@@ -11,7 +11,7 @@
     "guss-layout": "~1",
     "guss-css3": "~2",
     "guss-colours": "~1",
-    "guss-forms": "~1",
+    "guss-forms": "~2",
     "guss-webfonts": "~1"
   }
 }
