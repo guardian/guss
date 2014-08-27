@@ -1,8 +1,5 @@
 {
   "name": "guss",
-  "ignore": [
-    "CHANGELOG.md"
-  ],
   "dependencies": {
     "guss-rem": "~1",
     "guss-grid-system": "~1",
