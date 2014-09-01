@@ -14,7 +14,6 @@ bower install guss --save
 @import 'bower_components/guss-layout/_row';
 @import 'bower_components/guss-layout/_columns';
 @import 'bower_components/guss-typography/_typography';
-@import 'bower_components/guss-forms/_forms';
 @import 'bower_components/guss-webfonts/_webfonts';
 ```
 
